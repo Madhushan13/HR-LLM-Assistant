@@ -1,0 +1,6 @@
+# Ignore frontend and root-level files
+../frontend/
+../package-lock.json
+../*.log
+../*.csv
+../.env
